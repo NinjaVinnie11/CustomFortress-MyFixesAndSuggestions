@@ -743,7 +743,7 @@
 		"end_y"			"60"
 		"end_wide"		"250"
 		"end_tall"		"130"
-		"callout_inparents_x"	"c-225"
+		"callout_inparents_x"	"c-200"
 		"callout_inparents_y"	"220"
 		"next_explanation"		"ArmoryExplanation"
 		
@@ -964,7 +964,7 @@
 		"end_y"			"60"
 		"end_wide"		"250"
 		"end_tall"		"140"
-		"callout_inparents_x"	"c75"
+		"callout_inparents_x"	"c0"
 		"callout_inparents_y"	"220"
 		"next_explanation"		"PatternsExplanation"
 		
@@ -1186,7 +1186,7 @@
 		"end_y"			"60"
 		"end_wide"		"250"
 		"end_tall"		"140"
-		"callout_inparents_x"	"c225"
+		"callout_inparents_x"	"c200"
 		"callout_inparents_y"	"220"
 		"next_explanation"		"ExplanationExplanation"
 		
